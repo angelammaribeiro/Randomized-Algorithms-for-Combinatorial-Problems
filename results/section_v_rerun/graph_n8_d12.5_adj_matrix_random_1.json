@@ -1,0 +1,32 @@
+{
+  "graph": "graph_n8_d12.5_adj_matrix",
+  "algorithm": "random",
+  "result": {
+    "graph_name": "graph_n8_d12.5_adj_matrix",
+    "algorithm": "random",
+    "best_weight": 895.97,
+    "best_matching": [
+      1,
+      2
+    ],
+    "runtime": 2.0000154199988174,
+    "candidates": 2,
+    "improvements": 1,
+    "duplicates": 486424,
+    "infeasible": 0,
+    "size_history": {
+      "2": 1,
+      "1": 1
+    },
+    "weight_history": [
+      895.97,
+      41.15
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 486426,
+      "feasibility_check": 2,
+      "weight_evaluation": 2
+    }
+  }
+}

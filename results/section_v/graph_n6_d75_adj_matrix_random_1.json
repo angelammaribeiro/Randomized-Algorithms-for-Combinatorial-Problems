@@ -1,0 +1,55 @@
+{
+  "graph": "graph_n6_d75_adj_matrix",
+  "algorithm": "random",
+  "result": {
+    "graph_name": "graph_n6_d75_adj_matrix",
+    "algorithm": "random",
+    "best_weight": 1179.1399999999999,
+    "best_matching": [
+      0,
+      3,
+      10
+    ],
+    "runtime": 2.0000195869997697,
+    "candidates": 23,
+    "improvements": 1,
+    "duplicates": 281056,
+    "infeasible": 0,
+    "size_history": {
+      "3": 4,
+      "2": 18,
+      "1": 1
+    },
+    "weight_history": [
+      1179.1399999999999,
+      417.56,
+      723.95,
+      623.02,
+      715.97,
+      360.5,
+      561.48,
+      959.02,
+      625.53,
+      421.78,
+      394.91999999999996,
+      493.69,
+      801.03,
+      557.74,
+      722.3299999999999,
+      770.87,
+      644.96,
+      573.63,
+      671.8199999999999,
+      536.34,
+      786.38,
+      158.23,
+      493.81
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 281079,
+      "feasibility_check": 23,
+      "weight_evaluation": 23
+    }
+  }
+}

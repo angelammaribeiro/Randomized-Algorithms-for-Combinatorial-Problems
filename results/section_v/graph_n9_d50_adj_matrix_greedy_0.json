@@ -1,0 +1,34 @@
+{
+  "graph": "graph_n9_d50_adj_matrix",
+  "algorithm": "greedy",
+  "result": {
+    "graph_name": "graph_n9_d50_adj_matrix",
+    "algorithm": "greedy",
+    "best_weight": 1143.0,
+    "best_matching": [
+      4,
+      7,
+      10,
+      14
+    ],
+    "runtime": 2.000014712000848,
+    "candidates": 3,
+    "improvements": 2,
+    "duplicates": 250814,
+    "infeasible": 0,
+    "size_history": {
+      "4": 3
+    },
+    "weight_history": [
+      1121.55,
+      1143.0,
+      1080.4099999999999
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 250817,
+      "feasibility_check": 3,
+      "weight_evaluation": 3
+    }
+  }
+}

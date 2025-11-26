@@ -1,0 +1,70 @@
+{
+  "graph": "graph_n16_d25_adj_matrix",
+  "algorithm": "local",
+  "result": {
+    "graph_name": "graph_n16_d25_adj_matrix",
+    "algorithm": "local",
+    "best_weight": 2477.92,
+    "best_matching": [
+      0,
+      10,
+      12,
+      16,
+      19,
+      20,
+      28
+    ],
+    "runtime": 2.0010104430002684,
+    "candidates": 34,
+    "improvements": 2,
+    "duplicates": 745,
+    "infeasible": 0,
+    "size_history": {
+      "7": 21,
+      "6": 11,
+      "5": 2
+    },
+    "weight_history": [
+      2377.87,
+      2477.92,
+      2464.4300000000003,
+      2341.62,
+      2397.09,
+      2406.07,
+      2384.25,
+      2400.23,
+      2460.96,
+      2321.19,
+      2386.09,
+      2347.46,
+      2298.39,
+      2328.13,
+      2126.86,
+      2304.23,
+      2270.75,
+      2270.1,
+      2283.59,
+      2247.41,
+      2333.9700000000003,
+      2190.73,
+      2408.15,
+      2322.98,
+      2455.12,
+      2423.03,
+      2373.25,
+      2342.2,
+      2401.64,
+      2390.17,
+      2353.26,
+      2336.69,
+      2341.94,
+      2335.28
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 779,
+      "feasibility_check": 34,
+      "weight_evaluation": 34
+    }
+  }
+}

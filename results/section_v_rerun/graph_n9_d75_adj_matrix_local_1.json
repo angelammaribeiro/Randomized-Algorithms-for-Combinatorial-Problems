@@ -1,0 +1,53 @@
+{
+  "graph": "graph_n9_d75_adj_matrix",
+  "algorithm": "local",
+  "result": {
+    "graph_name": "graph_n9_d75_adj_matrix",
+    "algorithm": "local",
+    "best_weight": 1193.28,
+    "best_matching": [
+      3,
+      7,
+      14,
+      19
+    ],
+    "runtime": 2.0017559679999977,
+    "candidates": 20,
+    "improvements": 2,
+    "duplicates": 1073,
+    "infeasible": 0,
+    "size_history": {
+      "4": 10,
+      "3": 9,
+      "2": 1
+    },
+    "weight_history": [
+      1193.19,
+      1182.37,
+      1193.28,
+      1145.8,
+      1136.7,
+      1156.3799999999999,
+      1180.66,
+      1063.27,
+      1132.49,
+      1136.71,
+      1136.08,
+      1006.69,
+      1015.1899999999999,
+      1016.41,
+      816.53,
+      995.1,
+      1015.0999999999999,
+      994.62,
+      990.03,
+      1005.84
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 1093,
+      "feasibility_check": 20,
+      "weight_evaluation": 20
+    }
+  }
+}

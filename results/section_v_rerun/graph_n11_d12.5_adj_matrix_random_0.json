@@ -1,0 +1,36 @@
+{
+  "graph": "graph_n11_d12.5_adj_matrix",
+  "algorithm": "random",
+  "result": {
+    "graph_name": "graph_n11_d12.5_adj_matrix",
+    "algorithm": "random",
+    "best_weight": 704.9,
+    "best_matching": [
+      0,
+      3,
+      5
+    ],
+    "runtime": 2.0000153340006364,
+    "candidates": 6,
+    "improvements": 2,
+    "duplicates": 349855,
+    "infeasible": 0,
+    "size_history": {
+      "3": 6
+    },
+    "weight_history": [
+      693.77,
+      561.01,
+      636.36,
+      537.54,
+      704.9,
+      658.26
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 349861,
+      "feasibility_check": 6,
+      "weight_evaluation": 6
+    }
+  }
+}

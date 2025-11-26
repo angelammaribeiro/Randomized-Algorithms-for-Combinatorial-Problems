@@ -1,0 +1,35 @@
+{
+  "graph": "SWtinyG",
+  "algorithm": "local",
+  "result": {
+    "graph_name": "SWtinyG",
+    "algorithm": "local",
+    "best_weight": 6.0,
+    "best_matching": [
+      4,
+      6,
+      7,
+      8,
+      10,
+      12
+    ],
+    "runtime": 2.0008548709993192,
+    "candidates": 2,
+    "improvements": 1,
+    "duplicates": 886,
+    "infeasible": 0,
+    "size_history": {
+      "6": 2
+    },
+    "weight_history": [
+      6.0,
+      6.0
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 888,
+      "feasibility_check": 2,
+      "weight_evaluation": 2
+    }
+  }
+}

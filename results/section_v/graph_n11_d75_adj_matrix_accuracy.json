@@ -1,0 +1,29 @@
+{
+  "random": {
+    "mean_weight": 1629.1133333333335,
+    "std_weight": 102.24116142185049,
+    "min_weight": 1484.71,
+    "max_weight": 1707.69,
+    "absolute_gap": 103.00666666666666,
+    "relative_gap": 0.059468551062666936,
+    "approximation_ratio": 0.9405314489373331
+  },
+  "greedy": {
+    "mean_weight": 1732.1200000000001,
+    "std_weight": 0.0,
+    "min_weight": 1732.1200000000001,
+    "max_weight": 1732.1200000000001,
+    "absolute_gap": 0.0,
+    "relative_gap": 0.0,
+    "approximation_ratio": 1.0
+  },
+  "local": {
+    "mean_weight": 1732.1200000000001,
+    "std_weight": 0.0,
+    "min_weight": 1732.1200000000001,
+    "max_weight": 1732.1200000000001,
+    "absolute_gap": 0.0,
+    "relative_gap": 0.0,
+    "approximation_ratio": 1.0
+  }
+}

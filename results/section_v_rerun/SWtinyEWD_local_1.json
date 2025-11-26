@@ -1,0 +1,32 @@
+{
+  "graph": "SWtinyEWD",
+  "algorithm": "local",
+  "result": {
+    "graph_name": "SWtinyEWD",
+    "algorithm": "local",
+    "best_weight": 1.9000000000000001,
+    "best_matching": [
+      3,
+      5,
+      6,
+      12
+    ],
+    "runtime": 2.0006826590015407,
+    "candidates": 1,
+    "improvements": 1,
+    "duplicates": 1081,
+    "infeasible": 0,
+    "size_history": {
+      "4": 1
+    },
+    "weight_history": [
+      1.9000000000000001
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 1082,
+      "feasibility_check": 1,
+      "weight_evaluation": 1
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "graph": "graph_n8_d50_adj_matrix",
+  "algorithm": "random",
+  "result": {
+    "graph_name": "graph_n8_d50_adj_matrix",
+    "algorithm": "random",
+    "best_weight": 1781.89,
+    "best_matching": [
+      1,
+      4,
+      12,
+      13
+    ],
+    "runtime": 2.0000169510003616,
+    "candidates": 32,
+    "improvements": 1,
+    "duplicates": 262186,
+    "infeasible": 0,
+    "size_history": {
+      "4": 8,
+      "3": 24
+    },
+    "weight_history": [
+      1781.89,
+      376.60999999999996,
+      957.92,
+      953.1,
+      1335.27,
+      871.2099999999999,
+      795.72,
+      998.42,
+      1315.52,
+      1762.14,
+      604.56,
+      915.59,
+      890.96,
+      1362.21,
+      1077.47,
+      471.28,
+      1115.3,
+      1350.67,
+      1264.38,
+      1426.58,
+      849.52,
+      985.1199999999999,
+      1429.74,
+      1155.8,
+      877.76,
+      1188.47,
+      915.27,
+      1373.58,
+      328.33,
+      1257.76,
+      687.32,
+      953.6700000000001
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 262218,
+      "feasibility_check": 32,
+      "weight_evaluation": 32
+    }
+  }
+}

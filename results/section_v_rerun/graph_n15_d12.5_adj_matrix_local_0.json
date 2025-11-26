@@ -1,0 +1,33 @@
+{
+  "graph": "graph_n15_d12.5_adj_matrix",
+  "algorithm": "local",
+  "result": {
+    "graph_name": "graph_n15_d12.5_adj_matrix",
+    "algorithm": "local",
+    "best_weight": 1783.74,
+    "best_matching": [
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "runtime": 2.001717531000395,
+    "candidates": 1,
+    "improvements": 1,
+    "duplicates": 923,
+    "infeasible": 0,
+    "size_history": {
+      "5": 1
+    },
+    "weight_history": [
+      1783.74
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 924,
+      "feasibility_check": 1,
+      "weight_evaluation": 1
+    }
+  }
+}

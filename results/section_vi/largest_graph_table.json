@@ -1,0 +1,29 @@
+[
+  {
+    "algorithm": "random",
+    "max_vertices": 400,
+    "edges": 824,
+    "runtime_s": 0.6462415839996538,
+    "cand_ops": 2000,
+    "feas_ops": 2000,
+    "weight_ops": 2000
+  },
+  {
+    "algorithm": "greedy",
+    "max_vertices": 300,
+    "edges": 589,
+    "runtime_s": 0.5223844229985843,
+    "cand_ops": 2000,
+    "feas_ops": 2000,
+    "weight_ops": 2000
+  },
+  {
+    "algorithm": "local",
+    "max_vertices": 400,
+    "edges": 824,
+    "runtime_s": 2.000739399998565,
+    "cand_ops": 43,
+    "feas_ops": 43,
+    "weight_ops": 43
+  }
+]

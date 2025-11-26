@@ -1,0 +1,29 @@
+{
+  "graph": "graph_n4_d50_adj_matrix",
+  "algorithm": "local",
+  "result": {
+    "graph_name": "graph_n4_d50_adj_matrix",
+    "algorithm": "local",
+    "best_weight": 445.0,
+    "best_matching": [
+      2
+    ],
+    "runtime": 2.000442729000497,
+    "candidates": 1,
+    "improvements": 1,
+    "duplicates": 1592,
+    "infeasible": 0,
+    "size_history": {
+      "1": 1
+    },
+    "weight_history": [
+      445.0
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 1593,
+      "feasibility_check": 1,
+      "weight_evaluation": 1
+    }
+  }
+}

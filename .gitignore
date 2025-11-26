@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Editor/OS clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Experiment outputs and caches
+results/section_vi/*.tmp
+results/section_v_rerun/*.tmp
+data_cache/
+tmp_results/
+
+# Reports/build
+*.aux
+*.log
+*.out
+*.toc
+*.pdf

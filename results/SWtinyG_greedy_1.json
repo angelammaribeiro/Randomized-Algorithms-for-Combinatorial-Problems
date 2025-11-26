@@ -1,0 +1,68 @@
+{
+  "graph": "SWtinyG",
+  "algorithm": "greedy",
+  "result": {
+    "graph_name": "SWtinyG",
+    "algorithm": "greedy",
+    "best_weight": 6.0,
+    "best_matching": [
+      2,
+      4,
+      7,
+      8,
+      10,
+      12
+    ],
+    "runtime": 5.000019643000087,
+    "candidates": 33,
+    "improvements": 1,
+    "duplicates": 752673,
+    "infeasible": 0,
+    "size_history": {
+      "6": 2,
+      "5": 13,
+      "4": 18
+    },
+    "weight_history": [
+      6.0,
+      5.0,
+      5.0,
+      5.0,
+      6.0,
+      5.0,
+      4.0,
+      5.0,
+      5.0,
+      4.0,
+      5.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      5.0,
+      5.0,
+      4.0,
+      4.0,
+      5.0,
+      4.0,
+      5.0,
+      4.0,
+      5.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      5.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 752706,
+      "feasibility_check": 33,
+      "weight_evaluation": 33
+    }
+  }
+}

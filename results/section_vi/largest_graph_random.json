@@ -1,0 +1,1414 @@
+{
+  "largest_graph": {
+    "vertices": 400,
+    "edges": 824,
+    "runtime": 0.6462415839996538,
+    "best_weight": 1013.297342900229
+  },
+  "sizes": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    46,
+    48,
+    50,
+    52,
+    54,
+    56,
+    58,
+    60,
+    62,
+    64,
+    66,
+    68,
+    70,
+    72,
+    74,
+    76,
+    78,
+    80,
+    82,
+    84,
+    86,
+    88,
+    90,
+    92,
+    94,
+    96,
+    98,
+    100,
+    102,
+    104,
+    106,
+    108,
+    110,
+    112,
+    114,
+    116,
+    118,
+    120,
+    122,
+    124,
+    126,
+    128,
+    130,
+    132,
+    134,
+    136,
+    138,
+    140,
+    142,
+    144,
+    146,
+    148,
+    150,
+    152,
+    154,
+    156,
+    158,
+    160,
+    162,
+    164,
+    166,
+    168,
+    170,
+    172,
+    174,
+    176,
+    178,
+    180,
+    182,
+    184,
+    186,
+    188,
+    190,
+    192,
+    194,
+    196,
+    198,
+    200,
+    202,
+    204,
+    206,
+    208,
+    210,
+    212,
+    214,
+    216,
+    218,
+    220,
+    222,
+    224,
+    226,
+    228,
+    230,
+    232,
+    234,
+    236,
+    238,
+    240,
+    242,
+    244,
+    246,
+    248,
+    250,
+    252,
+    254,
+    256,
+    258,
+    260,
+    262,
+    264,
+    266,
+    268,
+    270,
+    272,
+    274,
+    276,
+    278,
+    280,
+    282,
+    284,
+    286,
+    288,
+    290,
+    292,
+    294,
+    296,
+    298,
+    300,
+    302,
+    304,
+    306,
+    308,
+    310,
+    312,
+    314,
+    316,
+    318,
+    320,
+    322,
+    324,
+    326,
+    328,
+    330,
+    332,
+    334,
+    336,
+    338,
+    340,
+    342,
+    344,
+    346,
+    348,
+    350,
+    352,
+    354,
+    356,
+    358,
+    360,
+    362,
+    364,
+    366,
+    368,
+    370,
+    372,
+    374,
+    376,
+    378,
+    380,
+    382,
+    384,
+    386,
+    388,
+    390,
+    392,
+    394,
+    396,
+    398,
+    400
+  ],
+  "runtimes": [
+    2.000057145000028,
+    2.0000639589998173,
+    2.0000630559989077,
+    2.0000595330020587,
+    2.0000591179996263,
+    2.000097784999525,
+    2.000070346999564,
+    2.000114537997433,
+    2.0001049200000125,
+    2.000114828999358,
+    0.035972744000901,
+    0.037083469000208424,
+    0.03972419199999422,
+    2.000168761001987,
+    0.04381677499986836,
+    2.0003447199997026,
+    0.051281559997732984,
+    2.000424761001341,
+    0.061206947997561656,
+    0.0556221650003863,
+    0.05591739499868709,
+    2.0002204869997513,
+    2.0002666500004125,
+    0.06209268499878817,
+    0.05759690400009276,
+    0.07575624600212905,
+    0.08051666599931195,
+    0.07990329699896392,
+    0.09033252600056585,
+    0.10276433800027007,
+    0.08329828299974906,
+    0.06874428100127261,
+    0.09453763400233584,
+    0.08228589699865552,
+    0.08166687000266393,
+    0.10052982299748692,
+    0.08664995300205192,
+    0.10824394200244569,
+    0.10514922899892554,
+    0.09481861799940816,
+    0.10631661799925496,
+    0.1037462919994141,
+    0.1107455609999306,
+    0.11680989900196437,
+    0.11292315500031691,
+    0.12589191300139646,
+    0.09998917899793014,
+    0.12120496699935757,
+    0.13343457500013756,
+    0.10198652400140418,
+    0.12729251500059036,
+    0.136708035999618,
+    0.11181747500086203,
+    0.1416596210001444,
+    0.13627528299912228,
+    0.13039037300040945,
+    0.15057102300124825,
+    0.12451540300025954,
+    0.14818488599848934,
+    0.14844959399852087,
+    0.14307140199889545,
+    0.14888465300100506,
+    0.1543649569975969,
+    0.15089603700107546,
+    0.140504939998209,
+    0.15671565200318582,
+    0.15286871599892038,
+    0.17533227799867745,
+    0.19786987399857026,
+    0.1987822689989116,
+    0.14589293699827977,
+    0.18810502300038934,
+    0.22295436700005666,
+    0.19322146499689552,
+    0.22018680499968468,
+    0.18591767900215928,
+    0.2112464390011155,
+    0.22800227200059453,
+    0.24946856099995784,
+    0.19907844699991983,
+    0.21920431699982146,
+    0.23961000299823354,
+    0.20676429699960863,
+    0.24110134199872846,
+    0.22619879199919524,
+    0.2618967370035534,
+    0.23730661700028577,
+    0.24829156000123476,
+    0.2854569310002262,
+    0.2271049260016298,
+    0.24973855300049763,
+    0.2558403669972904,
+    0.24839405099919531,
+    0.24836325499927625,
+    0.2662706490009441,
+    0.29081862500243005,
+    0.24447939099991345,
+    0.28087055400101235,
+    0.30322629700094694,
+    0.26817127400136087,
+    0.27560911100226804,
+    0.287461064002855,
+    0.2996284660002857,
+    0.2872161220002454,
+    0.31312581800011685,
+    0.3144034899996768,
+    0.31598766800016165,
+    0.30680285099879256,
+    0.33241594200080726,
+    0.3275863630005915,
+    0.31977670500054955,
+    0.3124569310020888,
+    0.3180392159993062,
+    0.3398110710004403,
+    0.323007074999623,
+    0.34379962499951944,
+    0.32307648500136565,
+    0.3505530180009373,
+    0.38592489900111104,
+    0.358103148999362,
+    0.3605488499997591,
+    0.3420673020009417,
+    0.3586562620002951,
+    0.35800872899926617,
+    0.3806489629969292,
+    0.3449995070004661,
+    0.37101366400020197,
+    0.38197215699983644,
+    0.3735026229987852,
+    0.3616210010004579,
+    0.3589467639976647,
+    0.42221694799809484,
+    0.3887450580004952,
+    0.4032361910030886,
+    0.4218532029990456,
+    0.40655897300166544,
+    0.3740477869978349,
+    0.4166421640002227,
+    0.42284134700094,
+    0.4415701890029595,
+    0.4560217679972993,
+    0.43137177099924884,
+    0.4382447450007021,
+    0.42325838900069357,
+    0.4522274209994066,
+    0.4350593769995612,
+    0.45619517600061954,
+    0.4660349010009668,
+    0.4522101369984739,
+    0.4536733870008902,
+    0.4149624639976537,
+    0.4419983899970248,
+    0.4492147169985401,
+    0.44241677000172785,
+    0.48100503200112144,
+    0.46819897900059004,
+    0.4225782649991743,
+    0.4471146409996436,
+    0.4777687700006936,
+    0.46400435699979425,
+    0.4725260010018246,
+    0.467103862996737,
+    0.5062185429997044,
+    0.47133001100155525,
+    0.4890183440002147,
+    0.46031875900007435,
+    0.5127041679988906,
+    0.5064825050030777,
+    0.47409440299816197,
+    0.5390580160019454,
+    0.5159271550000994,
+    0.5265462409988686,
+    0.5517210719990544,
+    0.5624856870017538,
+    0.5385145369982638,
+    0.532216644998698,
+    0.5547324779981864,
+    0.5141101489971334,
+    0.5853524099984497,
+    0.5735435509996023,
+    0.5172953010005585,
+    0.5555317850012216,
+    0.5649406579977949,
+    0.5755952740000794,
+    0.5610995889983315,
+    0.5744855500015547,
+    0.5513774739993096,
+    0.6018554069996753,
+    0.608416760002001,
+    0.5832732670023688,
+    0.5854950639986782,
+    0.5771819919973495,
+    0.6084460509991914,
+    0.6244993069994962,
+    0.5685233439980948,
+    0.6263302359984664,
+    0.6265353719973064,
+    0.6044272819999605,
+    0.6462415839996538
+  ],
+  "operations": [
+    {
+      "candidate_generation": 490934,
+      "feasibility_check": 3,
+      "weight_evaluation": 3
+    },
+    {
+      "candidate_generation": 366067,
+      "feasibility_check": 11,
+      "weight_evaluation": 11
+    },
+    {
+      "candidate_generation": 315464,
+      "feasibility_check": 33,
+      "weight_evaluation": 33
+    },
+    {
+      "candidate_generation": 213616,
+      "feasibility_check": 117,
+      "weight_evaluation": 117
+    },
+    {
+      "candidate_generation": 201140,
+      "feasibility_check": 215,
+      "weight_evaluation": 215
+    },
+    {
+      "candidate_generation": 203067,
+      "feasibility_check": 535,
+      "weight_evaluation": 535
+    },
+    {
+      "candidate_generation": 238927,
+      "feasibility_check": 135,
+      "weight_evaluation": 135
+    },
+    {
+      "candidate_generation": 180815,
+      "feasibility_check": 684,
+      "weight_evaluation": 684
+    },
+    {
+      "candidate_generation": 216575,
+      "feasibility_check": 568,
+      "weight_evaluation": 568
+    },
+    {
+      "candidate_generation": 158550,
+      "feasibility_check": 576,
+      "weight_evaluation": 576
+    },
+    {
+      "candidate_generation": 2039,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2165,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 130468,
+      "feasibility_check": 700,
+      "weight_evaluation": 700
+    },
+    {
+      "candidate_generation": 2002,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 124269,
+      "feasibility_check": 1033,
+      "weight_evaluation": 1033
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 116424,
+      "feasibility_check": 810,
+      "weight_evaluation": 810
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 96062,
+      "feasibility_check": 1371,
+      "weight_evaluation": 1371
+    },
+    {
+      "candidate_generation": 87433,
+      "feasibility_check": 1594,
+      "weight_evaluation": 1594
+    },
+    {
+      "candidate_generation": 2001,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2045,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2050,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    },
+    {
+      "candidate_generation": 2000,
+      "feasibility_check": 2000,
+      "weight_evaluation": 2000
+    }
+  ],
+  "scaling_slope": 0.7707704662771738,
+  "complexity": {
+    "model": "O(n^0.10)",
+    "slope": 0.10224519653282667,
+    "intercept": -1.7262954644361972
+  },
+  "extrapolated_runtime": 0.6710069002829369
+}

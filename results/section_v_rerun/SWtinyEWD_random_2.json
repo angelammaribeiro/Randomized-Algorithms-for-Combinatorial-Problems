@@ -1,0 +1,70 @@
+{
+  "graph": "SWtinyEWD",
+  "algorithm": "random",
+  "result": {
+    "graph_name": "SWtinyEWD",
+    "algorithm": "random",
+    "best_weight": 1.9000000000000001,
+    "best_matching": [
+      3,
+      5,
+      6,
+      12
+    ],
+    "runtime": 2.000019433000489,
+    "candidates": 37,
+    "improvements": 2,
+    "duplicates": 261172,
+    "infeasible": 0,
+    "size_history": {
+      "4": 7,
+      "3": 29,
+      "2": 1
+    },
+    "weight_history": [
+      1.76,
+      1.35,
+      0.9199999999999999,
+      1.49,
+      1.01,
+      1.1400000000000001,
+      1.24,
+      1.1800000000000002,
+      1.59,
+      1.56,
+      1.06,
+      1.24,
+      1.56,
+      1.15,
+      1.06,
+      1.56,
+      1.21,
+      1.47,
+      1.29,
+      1.09,
+      1.9000000000000001,
+      1.17,
+      0.8300000000000001,
+      1.21,
+      1.11,
+      1.5,
+      1.48,
+      1.07,
+      0.8400000000000001,
+      0.97,
+      1.1,
+      1.0,
+      1.04,
+      1.27,
+      0.8999999999999999,
+      1.3199999999999998,
+      1.13
+    ],
+    "stopping_reason": "time_limit",
+    "operations": {
+      "candidate_generation": 261209,
+      "feasibility_check": 37,
+      "weight_evaluation": 37
+    }
+  }
+}
